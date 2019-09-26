@@ -1,9 +1,9 @@
-# 基数ソートの演習
+# 基数ソート
 
 # 進め方
 ## はじめてのとき
 * [GitHub](https://github.com/)のアカウントを作成してください
-* [Travis CI](https://travis-ci.org/) のアカウントを作成してください
+* [Travis CI](https://travis-ci.com/) のアカウントを作成してください
 * GitHubのアカウントを[こちらのフォーム](https://goo.gl/forms/anAdoxqPKVt8sJGZ2)から教えてください。
 ## 毎回の進め方
 * このリポジトリをforkしてください
@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp/12_radix_sort.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp/12_radix_sort)
+[![Build Status](https://travis-ci.com/t-kougei-game-comp/12_radix_sort.svg?branch=master)](https://travis-ci.com/t-kougei-game-comp/12_radix_sort)
 
 # 今回の問題
 
